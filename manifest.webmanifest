@@ -1,0 +1,17 @@
+{
+  "name": "Level 2031",
+  "short_name": "Level 2031",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080a0d",
+  "theme_color": "#0b0d10",
+  "icons": [
+    {
+      "src": "./icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
